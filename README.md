@@ -1,4 +1,4 @@
-#  Automated Website Deployment using Jenkins, Docker & Git
+# Automated Website Deployment using Jenkins, Docker & Git
 
 This project demonstrates how a CI/CD pipeline is implemented to automate website deployment using Jenkins, Docker, and Git (GitHub for version control) on Ubuntu servers. Whenever new code is pushed to GitHub, Jenkins automatically retrieves the changes, builds a Docker image, and redeploys the website. This process ensures continuous integration and continuous delivery, keeping the website consistently updated and reducing manual effort.
 
