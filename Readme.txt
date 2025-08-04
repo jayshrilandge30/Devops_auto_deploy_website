@@ -221,8 +221,4 @@ Set up a second Ubuntu instance as a Jenkins agent node (Node1).
 - ✅ GitHub webhook ensured continuous integration.
 - ✅ Optional Jenkins agent allowed scalable deployment.
 
----
 
-** GitHub Repository**: [Devops_auto_deploy_website](https://github.com/jayshrilandge30/Devops_auto_deploy_website)
-
-** Project By**: *Jayshri Landge*
